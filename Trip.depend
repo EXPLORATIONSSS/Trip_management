@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1610695329 source:d:\kpit\trip_management\trip\trip_service.cpp
+	<iostream>
+	<string>
+	"Trip.h"
+	"RoadTrip.h"
+	"RailTrip.h"
+	"FlightTrip.h"
+
+1610691120 d:\kpit\trip_management\trip\trip.h
+	<iostream>
+	<string>
+
+1610696211 d:\kpit\trip_management\trip\roadtrip.h
+	<iostream>
+	<string>
+	"Trip.h"
+
+1610696204 d:\kpit\trip_management\trip\railtrip.h
+	<iostream>
+	<string>
+	"Trip.h"
+
+1610696208 d:\kpit\trip_management\trip\flighttrip.h
+	<iostream>
+	<string>
+	"Trip.h"
+
